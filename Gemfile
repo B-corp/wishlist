@@ -7,6 +7,7 @@ gem 'rails', '4.1.8'
 gem 'pg'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 4.0.3'
+gem 'bootstrap-sass', '~> 3.3.5'
 # Use Haml for the web templating
 gem 'haml'
 # Use Uglifier as compressor for JavaScript assets
