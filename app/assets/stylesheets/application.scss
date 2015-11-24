@@ -15,3 +15,11 @@
  */
  @import "bootstrap-sprockets";
  @import "bootstrap";
+
+.fade {
+  opacity: 0;
+  -webkit-transition: opacity 0.25s linear;
+  -moz-transition: opacity 0.25s linear;
+  -o-transition: opacity 0.25s linear;
+  transition: opacity 0.25s linear;
+}

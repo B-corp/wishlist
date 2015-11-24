@@ -45,6 +45,9 @@ end
 group :test do
   gem 'rspec-rails'
   gem 'shoulda-matchers'
+  gem 'factory_girl_rails'
+  gem 'faker'
+  gem 'capybara'
 end
 
 group :development, :test do

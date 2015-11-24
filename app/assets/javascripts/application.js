@@ -14,3 +14,4 @@
 //= require jquery_ujs
 //= require turbolinks
 //= require_tree .
+window.setTimeout(function() { $(".notice").addClass('fade'); }, 2000);
